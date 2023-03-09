@@ -1,1 +1,1 @@
-# Winfetch-Theme
+# Winfetch-Themes
