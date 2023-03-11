@@ -1394,8 +1394,7 @@ function info_locale {
         # title = "Locale"
         title = "ロケール"
         icon = "├─  "
-        #content = "$Region$Languages"
-        content = "Nowhere"
+        content = "$Region$Languages"
     }
 }
 
@@ -1406,12 +1405,11 @@ function info_weather {
         # title = "Weather"
         title = "天気"
         icon = "╰─󰖐 "
-        <# content = try {
+        content = try {
             (Invoke-RestMethod wttr.in/?format="%t+-+%C+(%l)").TrimStart("+")
         } catch {
             "$e[91m(Network Error)"
-        } #>
-        content = "?????"
+        }
     }
 }
 
