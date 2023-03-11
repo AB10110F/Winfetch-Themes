@@ -82,11 +82,10 @@
 
 @(
     "title"
-    "dashes"
     "blank"
 
     "dashes_s"
-    "blank"
+    "blank_d"
     "os"
     # "kernel"
     # "custom_time"  # use custom info line
@@ -102,7 +101,7 @@
     "blank"
 
     "dashes_h"
-    "blank"
+    "blank_d"
     "computer"
     "motherboard"
     "cpu"
@@ -115,7 +114,7 @@
     "blank"
 
     "dashes_l"
-    "blank"
+    "blank_d"
     "locale"
     "weather"
 
