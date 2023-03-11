@@ -4,7 +4,11 @@
 
 This repo is inspired by [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)
 
-![Screenshot 2023-03-09 010415](https://user-images.githubusercontent.com/57847167/223946133-8fd70414-b7fb-4e5d-8695-38d8410cca22.png)
+## Russian Theme
+![Screenshot 2023-03-10 151744](https://user-images.githubusercontent.com/57847167/224461631-8d6be191-9db2-4137-aba1-3a708df055b1.png)
+
+## Japanese Theme
+![Screenshot 2023-03-10 205351](https://user-images.githubusercontent.com/57847167/224461667-aa7648e4-62a9-422a-98b5-a3f325522c01.png)
 
 ## Installation
 
