@@ -10,10 +10,13 @@ This repo is inspired by [Neofetch Themes](https://github.com/Chick2D/neofetch-t
 ## Japanese Theme
 ![Screenshot 2023-03-10 205351](https://user-images.githubusercontent.com/57847167/224461667-aa7648e4-62a9-422a-98b5-a3f325522c01.png)
 
+## Requirements
+
+- [Winfetch](https://github.com/lptstr/winfetch) 
+- [Nerd Fonts](https://www.nerdfonts.com/#home)
+
 ## Installation
 
 ---
-
-You need to install [Winfetch](https://github.com/lptstr/winfetch) and [Nerd Fonts](https://www.nerdfonts.com/#home)
 
 To make it work just copy the files "winfetch.ps1" and "config.ps1" and replace them with those that are in your default installation of winfeth
